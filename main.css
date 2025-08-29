@@ -1690,7 +1690,7 @@ footer{
     justify-content: center;
     flex-direction: column;
     background: #4DC9A3;
-    background: radial-gradient(circle, rgba(77, 201, 164, 0.133) 0%, rgba(148, 187, 233, 0) 100%);
+    background: radial-gradient(circle, rgba(77, 201, 164, 0.133) 0%, rgba(148, 187, 233, 0) 50%);
 }
 footer .info-footer{
     width: 100%;
